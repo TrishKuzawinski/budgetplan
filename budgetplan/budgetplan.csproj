@@ -100,8 +100,6 @@
     <Content Include="createBudget.aspx" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
-    <Content Include="scripts\ai.0.15.0-build32981.js" />
-    <Content Include="scripts\ai.0.15.0-build32981.min.js" />
     <Content Include="viewBudget.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -174,6 +172,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="scripts\" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
